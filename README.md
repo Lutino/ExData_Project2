@@ -14,4 +14,15 @@ The overall goal of this page is to explore the National Emissions Inventory dat
 The <b>negative slope</b> of the regression line in <a href="data/plot1.png">Plot1</a> below shows that total emissions from PM2.5 decreased in the United States between 1999 and 2008.
 
 ### Plot 1
-![Plot of Total PM25 Emissions 1999-2008](data/plot1.png) 
+![Plot of Total PM25 Emissions 1999-2008](data/plot1.png)
+
+## Trend of total emissions of PM2.5 in Baltimore City between 1999-2008
+again, by regressing the annual volumes of PM2.5, the slope appears to be negative, indicating an overall decline of total emissions from PM2.5
+### Plot 2
+![Plot of Total PM25 Emissions in Baltimore City : 1999-2008](data/plot2.png)
+
+## Trend of each type of PM2.5 Polutant in baltimore city between 1999-2008 
+There have been a decrease of volume of all types of pollutant (point, nonpoint, onroad, nonroad) over the city of Baltimore over this period.
+### Plot 3
+![Plot of Total PM25 Emissions in Baltimore City / Type: 1999-2008](data/plot3.png)
+
